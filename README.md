@@ -1,4 +1,4 @@
-# Front-End Mentor Challenge
+# Three Column Preview Card Component
 
 Responsive Front-End Mentor Challenge Using Pure HTML + CSS
 
